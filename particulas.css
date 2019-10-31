@@ -1,0 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#circulo {
+	display: block;
+	background-color: #102131;
+}
